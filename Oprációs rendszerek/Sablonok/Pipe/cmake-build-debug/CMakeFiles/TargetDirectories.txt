@@ -1,0 +1,3 @@
+D:/ELTE/IV. félév/Oprációs rendszerek/Sablonok/Pipe/cmake-build-debug/CMakeFiles/untitled.dir
+D:/ELTE/IV. félév/Oprációs rendszerek/Sablonok/Pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ELTE/IV. félév/Oprációs rendszerek/Sablonok/Pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

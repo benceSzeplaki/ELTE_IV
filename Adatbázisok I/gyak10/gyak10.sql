@@ -1,0 +1,19 @@
+CREATE OR REPLACE FUNCTION nap_nev(p_kar VARCHAR2) RETURN VARCHAR2 IS
+BEGIN
+    DECLARE
+        l_date date;
+    BEGIN
+        l_date := to_date( p_kar, 'YYYY/MM/DD' );
+        RETURN TO_CHAR(l_date, 'DAY');
+    EXCEPTION
+        WHEN others THEN
+            DBMS_OUTPUT.ENABLE;
+            DBMS_OUTPUT.PUT_LINE('Nem megfelelő formatum.');
+        RETURN null;
+    END;
+END;
+
+
+CREATE TABLE GYAK10 AS WITH ATLAG(ATLAG) AS (SELECT AVG(FIZETES) AS ATLAG FROM DOLGOZO)
+SELECT DNEV, BELEPES, nap_nev(BELEPES) as NAP FROM DOLGOZO, ATLAG WHERE FIZETES > ATLAG;
+

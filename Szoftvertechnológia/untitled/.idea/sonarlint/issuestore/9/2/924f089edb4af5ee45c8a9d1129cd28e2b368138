@@ -1,0 +1,47 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(»Â…²úÿÿÿÿ
+=	java:S1085")Either remove or fill this block of code.(²ÑI
+>	java:S1087")Either remove or fill this block of code.(å¥‡
+q
+java:S3923;"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ªÒïİ
+>	java:S108;")Either remove or fill this block of code.(ªÒïİ
+=	java:S108=")Either remove or fill this block of code.(²ÑI
+>	java:S108?")Either remove or fill this block of code.(å¥‡
+q
+java:S3923C"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ªÒïİ
+>	java:S108C")Either remove or fill this block of code.(ªÒïİ
+=	java:S108E")Either remove or fill this block of code.(²ÑI
+>	java:S108G")Either remove or fill this block of code.(å¥‡
+]
+java:S1854Y";Remove this useless assignment to local variable "isValid".(Ğ¼ó‰øÿÿÿÿ8¿ëÈÀ0
+]
+java:S1854_";Remove this useless assignment to local variable "isValid".(Ğ¼ó‰øÿÿÿÿ8¿ëÈÀ0
+]
+java:S1854e";Remove this useless assignment to local variable "isValid".(Ğ¼ó‰øÿÿÿÿ8¿ëÈÀ0
+]
+java:S1854k";Remove this useless assignment to local variable "isValid".(Ğ¼ó‰øÿÿÿÿ8¿ëÈÀ0
+]
+java:S1854o";Remove this useless assignment to local variable "isValid".(Ğ¼ó‰øÿÿÿÿ8¿ëÈÀ0
+9
+java:S6205n"Remove this redundant block.(üØô8ÀëÈÀ0
+h
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(äÈ“ˆ
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ÿ¯Ãúÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(‡“Êşÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(‰÷§÷ûÿÿÿÿ
+D
+java:S1066"/Merge this if statement with the enclosing one.(°Á´0
+f
+java:S1226Y"DIntroduce a new variable instead of reusing the parameter "isValid".(Ğ¼ó‰øÿÿÿÿ8ĞëÈÀ0
+f
+java:S1226_"DIntroduce a new variable instead of reusing the parameter "isValid".(Ğ¼ó‰øÿÿÿÿ8ĞëÈÀ0
+f
+java:S1226e"DIntroduce a new variable instead of reusing the parameter "isValid".(Ğ¼ó‰øÿÿÿÿ8ĞëÈÀ0
+f
+java:S1226k"DIntroduce a new variable instead of reusing the parameter "isValid".(Ğ¼ó‰øÿÿÿÿ8ÑëÈÀ0
+f
+java:S1226o"DIntroduce a new variable instead of reusing the parameter "isValid".(Ğ¼ó‰øÿÿÿÿ8ÑëÈÀ0
